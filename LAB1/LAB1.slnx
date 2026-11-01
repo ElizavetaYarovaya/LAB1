@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Program2_CString/Program2_CString.vcxproj" Id="f4bab18a-6832-4e70-82d2-4fd4dfa2088f" />
+  <Project Path="../Program3_File/Program3_File.vcxproj" Id="2538b562-f4c6-4450-96ff-6a928879f75a" />
+  <Project Path="../StringLib/StringLib.vcxproj" Id="7f736892-6d52-41d6-8cc9-ebb87c204097" />
+  <Project Path="LAB1.vcxproj" Id="0ffcc113-2c59-44b6-8445-86cf9bc14c97" />
+</Solution>
